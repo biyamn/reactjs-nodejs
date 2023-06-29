@@ -12,5 +12,8 @@
   "dependencies": {
     "express": "^4.18.2",
     "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^2.0.6"
   }
 }
