@@ -1,11 +1,10 @@
-import { useState } from 'react'
 import './App.css'
+import LoginPage from './pages/LoginPage'
 
 function App() {
-
   return (
     <>
-      <div>프론트</div>
+      <LoginPage />
     </>
   )
 }
